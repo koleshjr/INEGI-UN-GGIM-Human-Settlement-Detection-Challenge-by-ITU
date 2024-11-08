@@ -12,6 +12,7 @@ Developing an effective machine learning model for detecting human settlements i
 The evaluation metric for this challenge is the Area Under the Curve.
 For every row in the dataset, submission files should contain 2 columns: ID and Target. Values can be from 0 to 1.
 
-## RESULTS: https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge/leaderboard
+## RESULTS
+##### https://zindi.africa/competitions/inegi-gcim-human-settlement-detection-challenge/leaderboard
 * PUBLIC LB:  0.85215843
 * PRIVATE LB: 0.85227638
